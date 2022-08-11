@@ -1,0 +1,19 @@
+JavaScript - HTML 위에서 작동하는 언어
+HTML이라는 컴퓨터 언어에 완전히 다른 문법을 가진 JavaScript를 낑겨넣을 것인가?
+웹 브라우저에게 HTML의 언어로 JavaScript가 시작된다고 알려주어야 한다.
+
+■ HTML과 JavaScript의 만남 - script태그
+<script></script> 라는 태그를 넣는다.
+
+■ HTML과 JavaScript의 만남 - 이벤트
+
+검색하는 법 : javascript keydown event attribute
+(키를 눌렀을 때)
+
+
+■ HTML과 JavaScript의 만남 - 콘솔
+크롬개발자도구 - 콘솔 : 파일을 만들지 않고 JavaScript를 즉석으로 실행가능하다.
+텍스트가 몇 개의 글자로 이루어져있는지 알고 싶다? 복붙해서 따음표로 묶어주면
+Javascript에서 .length를 이용해서 alert('asdas'.length)를 실행시키면 나온다.
+
+elements(태그)에서 esc를 누르면 콘솔이 밑에 뜨고, 또 esc를 누르면 콘솔이 없어진다.

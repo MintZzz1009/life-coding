@@ -1,0 +1,44 @@
+body {
+    margin: 0%;
+  }
+  a {
+    color: gray;
+  }
+  h1 {
+    font-size: 45;
+    text-align: center;
+    border-bottom:5px solid blue;
+    padding: 20px;
+    display: block;
+    margin: 0px;
+  }
+  ol{
+    font-size: 15px;
+    text-align: center;
+    border-right: solid blue 2px;
+    padding: 20px;
+    width: 100px;
+    margin: 0px;
+  }
+  #contents {
+    display: grid;
+    border-bottom:5px solid blue;
+    grid-template-columns: 200px 1fr;
+  }
+  #contents ol {
+    padding-left: 45px;
+  }
+  #article {
+    padding: 20px;
+  }
+  @media(max-width:700px){
+    #contents {
+    display: block;
+    }
+    ol{
+      border-right: none;
+    }
+    h1 {
+      border-bottom: none;
+    }
+  }
