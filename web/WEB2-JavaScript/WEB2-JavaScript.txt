@@ -17,3 +17,13 @@ HTML이라는 컴퓨터 언어에 완전히 다른 문법을 가진 JavaScript�
 Javascript에서 .length를 이용해서 alert('asdas'.length)를 실행시키면 나온다.
 
 elements(태그)에서 esc를 누르면 콘솔이 밑에 뜨고, 또 esc를 누르면 콘솔이 없어진다.
+
+■ 데이터타입(자료형) - 문자열과 숫자
+
+실행을 유보하고 싶을 때는 shift + enter
+
+변수를 사용할 때는 앞에 var을 쓰자.
+
+■ 웹 브라우저 제어
+
+- CSS 기초 : <div></div> 줄바꿈이 됨 / <span></span> 줄바꿈이 되지 않음.
